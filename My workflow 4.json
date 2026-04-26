@@ -104,7 +104,7 @@
     {
       "parameters": {
         "public": true,
-        "initialMessages": "Haiii, dengan Dima disini, ada yang bisa aku bantu?\n",
+        "initialMessages": "Haiii, dengan Akbar disini, ada yang bisa aku bantu?\n",
         "availableInChat": true,
         "agentName": "Dima",
         "agentDescription": "Kamu asisten yang membantu penulisan ilmiah untuk tugas\nakhir (TA). Gunakan tool Supabase Vector Store untuk\nmemberikan bantuan. \nika informasi tidak tersedia dalam database yang disediakan,\njangan menjawab dengan mengarang sendiri, tetapi berikan\njawaban “Maaf, saya belum dapat menjawab karena saya\ntemukan dalam informasi yang tersedia.”",
